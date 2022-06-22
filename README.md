@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soundharya Parashuram</h1>
 <h3 align="center">Passionate in "Frontend Development"</h3>
-<img align ="right" alt="Coding" width="400" scr="https://stock.adobe.com/search?k=%22hi">
+<img align ="right" alt="Coding" width="400" scr="https://as2.ftcdn.net/v2/jpg/03/60/70/11/1000_F_360701167_9dolp6h5cfm5i9uC8QObRzhog1mc1gI0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundharyariya&label=Profile%20views&color=0e75b6&style=flat" alt="soundharyariya" /> </p>
 
