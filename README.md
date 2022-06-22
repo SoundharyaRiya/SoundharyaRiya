@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Soundharya Parashuram</h1>
 <h3 align="center">Passionate in "Frontend Development"</h3>
 
-<img align='right' alt="Coding" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300">
+<img align='right' alt="Coding" src="https://media2.giphy.com/media/YPQ62IX4xd60xJDaBu/200w.webp?cid=ecf05e47w8zs9gefydlwkiibxivtymn8q66fp8dh0t6ikxoc&rid=200w.webp&ct=s" width="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundharyariya&label=Profile%20views&color=0e75b6&style=flat" alt="soundharyariya" /> </p>
