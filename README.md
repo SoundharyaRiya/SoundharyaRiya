@@ -1,7 +1,9 @@
+<img align="center" alt="Coding" width="1050" src="https://thumbs.dreamstime.com/b/female-hands-working-laptop-panoramic-banner-female-hands-working-laptop-office-panoramic-banner-198107121.jpg"> <br>
+
 <h1 align="center">Hi 👋, I'm Soundharya Parashuram</h1>
 <h3 align="center">Passionate in "Frontend Development"</h3>
 
-<img align='left' alt="Coding" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300">
+<img align='right' alt="Coding" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="300">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soundharyariya&label=Profile%20views&color=0e75b6&style=flat" alt="soundharyariya" /> </p>
