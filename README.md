@@ -1,4 +1,5 @@
-<img align="center" alt="Coding" width="1050" src="https://thumbs.dreamstime.com/b/female-hands-working-laptop-panoramic-banner-female-hands-working-laptop-office-panoramic-banner-198107121.jpg"> <br>
+![](https://thumbs.dreamstime.com/b/woman-working-learning-home-using-laptop-freelancer-have-remote-work-online-education-maternity-leave-female-hands-181157894.jpg)
+ <br>
 
 <h1 align="center">Hi 👋, I'm Soundharya Parashuram</h1>
 <h3 align="center">Passionate in "Frontend Development"</h3>
