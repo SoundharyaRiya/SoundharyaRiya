@@ -15,7 +15,7 @@
 <a href="https://instagram.com/riya_chinnu25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riya_chinnu25" height="30" width="40" /></a>
 <a href=" https://soundharyaportfolio.netlify.app/" target="blank"><img align="center" 
 src="https://png.pngtree.com/png-clipart/20190630/original/pngtree-vector-web-icon-png-image_4142058.jpg" 
-alt="soundharya portfolio" height="30" width="40" /></a> 
+alt="soundharya portfolio" height="37" width="38" /></a> 
 
 </p>
 
