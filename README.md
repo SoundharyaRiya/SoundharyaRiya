@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/soundharya parashuram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soundharya parashuram" height="30" width="40" /></a>
 <a href="https://instagram.com/riya_chinnu25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riya_chinnu25" height="30" width="40" /></a>
-<a href=" https://soundharyaportfolio.netlify.app/" target="blank"><img align="center" src="[https://cdn.vectorstock.com/i/1000x1000/69/89/portfolio-icon-vector-2016989.webp](https://cdn1.iconfinder.com/data/icons/aami-flat-files/64/files-08-512.png)" alt="soundharya portfolio" height="30" width="40" /></a> 
+<a href=" https://soundharyaportfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.vectorstock.com/i/1000x1000/90/56/glowing-neon-go-to-web-icon-isolated-on-brick-wall-vector-28839056.webp" alt="soundharya portfolio" height="30" width="40" /></a> 
 
 </p>
 
